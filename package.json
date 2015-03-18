@@ -1,0 +1,22 @@
+{
+  "name": "is-pdf",
+  "description": "",
+  "version": "0.0.0",
+  "author": "nbqx",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nbqx/is-pdf.git"
+  },
+  "homepage": "https://github.com/nbqx/is-pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tape": "^3.5.0",
+    "tap-colorize": "^1.2.0"
+  }
+}
